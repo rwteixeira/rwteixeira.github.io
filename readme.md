@@ -5,5 +5,5 @@
 <p>
 <a href="https://rwteixeira.github.io/projeto-1/" target="_blanck">Projeto-1</a>
 <p>
-<a href="file:///C:/Users/r4dat/OneDrive/Documentos/ESTUDOS/projeto-2/index.html" target="_blanck">Projeto-2</a>
+<a href="https://rwteixeira.github.io/projeto-2/" target="_blanck">Projeto-2</a>
 <p>
