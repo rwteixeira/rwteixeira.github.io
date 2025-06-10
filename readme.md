@@ -9,8 +9,4 @@
     
 <a href="https://rwteixeira.github.io/projeto-android/" target=_blanck>Projeto Android</a>
 <br>
-<a href="https://rwteixeira.github.io/projeto-1/" target="_blanck">Projeto-1</a>
-<br>
-<a href="https://rwteixeira.github.io/projeto-4/" target="_blanck">Projeto-4</a>
-<br>
 <a href="https://rwteixeira.github.io/projeto-cordel/" target="_blanck">Projeto-Cordel</a>
