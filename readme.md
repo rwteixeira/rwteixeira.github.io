@@ -7,3 +7,4 @@
 <p>
 <a href="https://rwteixeira.github.io/projeto-4/" target="_blanck">Projeto-4</a>
 <p>
+<a href="https://rwteixeira.github.io/projeto-cordel/" target="_blanck">Projeto-Cordel</a>
